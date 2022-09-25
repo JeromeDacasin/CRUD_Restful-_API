@@ -1,0 +1,10 @@
+{
+    "database": {
+        "databaseName" : "db_todo",
+        "username" : "dbUser",
+        "password" : "dbPass",
+        "dialect"  : "sqlite",
+        "storage"  : "./test.sqlite",
+        "logging"  : false
+    }
+}

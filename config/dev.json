@@ -1,0 +1,9 @@
+{
+    "database": {
+        "databaseName" : "db_todo",
+        "username" : "postgres",
+        "password" : "12345",
+        "dialect"  : "postgres",
+        "logging"  : false
+    }
+}
